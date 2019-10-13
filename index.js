@@ -1,4 +1,8 @@
 // programa para validar numero de bi com Regex
+// att: esta verificação é feita se baseando no formato do bilhete de identidade de ' Angola ' 
+
+// program to validate bi number with Regex
+// att: This check is based on the identity card format of 'Angola'
 
 /*
 000322416ba036
